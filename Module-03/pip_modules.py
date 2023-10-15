@@ -1,8 +1,8 @@
-# Modules and Pip | Python Tutorial - Day #3
+# Modules and Pip | Python Learning - Module #03
 
 # https://www.youtube.com/watch?v=xwKO_y2gHxQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=3
 
-# pip install pandas
+# pip install pandas introduction
 
 import pandas
 

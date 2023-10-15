@@ -1,8 +1,8 @@
-# Some Amazing Python Programs - The Power of Python | Python Tutorial - Day #2
+# Some Amazing Python Programs - The Power of Python | Python Learning - Module #02
 
 # https://www.youtube.com/watch?v=Tto8TS-fJQU
 
-# Top Python Projects
+# Top Python Projects introduction
 
 # 1) Jarvis Virtual Assistant
 

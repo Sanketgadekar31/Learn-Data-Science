@@ -1,4 +1,4 @@
-# Introduction to Programming & Python | Python Tutorial - Day #1
+# Introduction to Programming & Python | Python Learning - Module #01
 
 # https://www.youtube.com/watch?v=7wnove7K-ZQ
 
