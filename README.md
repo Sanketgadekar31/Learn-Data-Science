@@ -1,4 +1,4 @@
-# 100-Days-with-Python
+# Learning-Python
 Python is a high-level, general-purpose programming language.
 
 DAY 001 :- Introduction to Programming & Python
